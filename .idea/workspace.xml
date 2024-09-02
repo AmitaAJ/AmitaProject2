@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f17498b4-9c80-4aeb-bf0a-a5d33cd0914b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SourceCode/exc_882024/Tutorial 02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SourceCode/exc_882024/Tutorial 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/exc_882024/Tutorial 01.py" afterDir="false" />
+    <list default="true" id="f17498b4-9c80-4aeb-bf0a-a5d33cd0914b" name="Changes" comment="My 1st Tutorial">
+      <change afterPath="$PROJECT_DIR$/New Source File/exc_8thAugust24/Tutorial 001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New Source File/exc_8thAugust24/Tutotial 002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCode/Test/Star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCode/exc_1082024/Tutorial 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCode/exc_1082024/Tutorial 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCode/exc_1082024/Tutorial 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SourceCode/exc_1082024/Tutorial 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,31 +29,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AmitaAJ"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AmitaAJ&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AmitaAJ/AmitaProject1.git",
-    "accountId": "5ef1329e-1421-42c3-8ebf-8310af06ff1e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AmitaAJ/AmitaProject1.git&quot;,
+    &quot;accountId&quot;: &quot;5ef1329e-1421-42c3-8ebf-8310af06ff1e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2kTSBcqvZFFracUXRhS1awHQPgK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Star.executor": "Run",
     "Python.Tutorial 01.executor": "Run",
     "Python.Tutorial 02.executor": "Run",
+    "Python.Tutorial 3.executor": "Run",
+    "Python.Tutorial 4.executor": "Run",
+    "Python.Tutorial 5.executor": "Run",
+    "Python.Tutorial 6.executor": "Run",
+    "Python.Tutotial 002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -68,6 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723305938692</updated>
     </task>
+    <task id="LOCAL-00001" summary="My 1st Tutorial">
+      <option name="closed" value="true" />
+      <created>1723307021838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723307021838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My 1st Tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="My 1st Tutorial" />
   </component>
 </project>
