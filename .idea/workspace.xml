@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f17498b4-9c80-4aeb-bf0a-a5d33cd0914b" name="Changes" comment="All the Tutorial Files for the 10th August 2024 are added.">
-      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial019 Task User Input 01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial020 Task Uset Input 02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial021 Formated Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial022 HomeWork 01.py" afterDir="false" />
+    <list default="true" id="f17498b4-9c80-4aeb-bf0a-a5d33cd0914b" name="Changes" comment="All the Tutorial Files for the 13th August 2024 are added.">
+      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial023 List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial024StringFucntion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial025 Id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial026 HomeWork 02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,100 +79,16 @@
     "Python.Tutorial020 Task Uset Input 02.executor": "Run",
     "Python.Tutorial021 Formated Number.executor": "Run",
     "Python.Tutorial022 HomeWork 01.executor": "Run",
+    "Python.Tutorial023 List.executor": "Run",
+    "Python.Tutorial024StringFucntion.executor": "Run",
+    "Python.Tutorial025 Id.executor": "Run",
+    "Python.Tutorial026 HomeWork 02.executor": "Run",
     "Python.Tutotial 002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Tutorial022 HomeWork 01">
-    <configuration name="Tutorial018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AmitaProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/New Source File/exc_13thAugust24" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial018.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Tutorial019 Task User Input 01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AmitaProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/New Source File/exc_13thAugust24" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\GAURAVI\PycharmProjects\AmitaProject1\New Source File\exc_13thAugust24\Tutorial019 Task User Input 01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Tutorial020 Task Uset Input 02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AmitaProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/New Source File/exc_13thAugust24" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial020 Task Uset Input 02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Tutorial021 Formated Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AmitaProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/New Source File/exc_13thAugust24" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial021 Formated Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Tutorial026 HomeWork 02">
     <configuration name="Tutorial022 HomeWork 01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AmitaProject1" />
       <option name="ENV_FILES" value="" />
@@ -200,13 +111,101 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Tutorial023 List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmitaProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/New Source File/exc_13thAugust24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial023 List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tutorial024StringFucntion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmitaProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/New Source File/exc_13thAugust24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial024StringFucntion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tutorial025 Id" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmitaProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/New Source File/exc_13thAugust24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial025 Id.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tutorial026 HomeWork 02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AmitaProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/New Source File/exc_13thAugust24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New Source File/exc_13thAugust24/Tutorial026 HomeWork 02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tutorial026 HomeWork 02" />
+        <item itemvalue="Python.Tutorial025 Id" />
+        <item itemvalue="Python.Tutorial024StringFucntion" />
+        <item itemvalue="Python.Tutorial023 List" />
         <item itemvalue="Python.Tutorial022 HomeWork 01" />
-        <item itemvalue="Python.Tutorial021 Formated Number" />
-        <item itemvalue="Python.Tutorial020 Task Uset Input 02" />
-        <item itemvalue="Python.Tutorial019 Task User Input 01" />
-        <item itemvalue="Python.Tutorial018" />
       </list>
     </recent_temporary>
   </component>
@@ -250,12 +249,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725698941872</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="All the Tutorial Files for the 13th August 2024 are added.">
+      <option name="closed" value="true" />
+      <created>1726296491180</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726296491180</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My 1st Tutorial" />
     <MESSAGE value="All the Tutorial Files for the 10th August 2024 are added." />
-    <option name="LAST_COMMIT_MESSAGE" value="All the Tutorial Files for the 10th August 2024 are added." />
+    <MESSAGE value="All the Tutorial Files for the 13th August 2024 are added." />
+    <option name="LAST_COMMIT_MESSAGE" value="All the Tutorial Files for the 13th August 2024 are added." />
   </component>
 </project>
